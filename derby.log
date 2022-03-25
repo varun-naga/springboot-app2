@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Fri Mar 25 19:44:36 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017f-c16d-d8ae-0000017c9f18 
+on database directory memory:/Users/mnmvarun/Downloads/demo2/ffe7f937-7b5a-4473-b98e-48e2b6961629 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7538d92e 
+Loaded from file:/Users/mnmvarun/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.11+9
+java.fullversion=11.0.11+9
+JRE 11 Mac OS X amd64-64-Bit Compressed References 20210421_957 (JIT enabled, AOT enabled)
+OpenJ9   - b4cc246d9
+OMR      - 162e6f729
+JCL      - 7796c80419 based on jdk-11.0.11+9
+user.dir=/Users/mnmvarun/Downloads/demo2
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
