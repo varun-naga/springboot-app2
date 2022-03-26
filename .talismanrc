@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: derby.log
+  checksum: 004bac5dc97f8285a08a37fcadc34f2a6f7b9391e2078673262ac8ab7ceada19
+- filename: mvnw
+  checksum: 525d6897dc14f8a1884cdb1cfd0fdf8179230a04afcddca9158c09040117ae85
+version: ""
