@@ -21,11 +21,11 @@ public class Course {
         return topic;
     }
 
-    public Course(String id, String name, String description,String topicId) {
+    public Course(String id, String name, String description, String topicId) {
         this.id = id;
         this.name = name;
         this.description = description;
-        this.topic=new Topic(topicId,"","");
+        this.topic = new Topic(topicId, "", "");
     }
 
     public Course() {
@@ -58,6 +58,6 @@ public class Course {
     }
 
     public void setTopic(Topic topic) {
-        this.topic=topic;
+        this.topic = topic;
     }
 }

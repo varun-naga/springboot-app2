@@ -19,7 +19,5 @@ target/
 *.iml
 *.ipr
 *.mvn
-mvnw
-mvnw.cmd
 derby.log
 
